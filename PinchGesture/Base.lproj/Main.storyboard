@@ -32,6 +32,9 @@
                             <constraint firstItem="y0V-hv-Wk7" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="s0I-e9-TQd"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="txtPinch" destination="y0V-hv-Wk7" id="xEb-zi-2nz"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
